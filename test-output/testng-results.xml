@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="16183" started-at="2021-08-30T16:17:18Z" finished-at="2021-08-30T16:17:34Z">
+    <groups>
+    </groups>
+    <test name="exampl1" duration-ms="16183" started-at="2021-08-30T16:17:18Z" finished-at="2021-08-30T16:17:34Z">
+      <class name="testngpack.Prltest">
+        <test-method status="PASS" signature="fb()[pri:0, instance:testngpack.Prltest@7f9a81e8]" name="fb" duration-ms="8043" started-at="2021-08-30T16:17:18Z" finished-at="2021-08-30T16:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb -->
+        <test-method status="PASS" signature="amaz()[pri:0, instance:testngpack.Prltest@7f9a81e8]" name="amaz" duration-ms="16132" started-at="2021-08-30T16:17:18Z" finished-at="2021-08-30T16:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amaz -->
+      </class> <!-- testngpack.Prltest -->
+    </test> <!-- exampl1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

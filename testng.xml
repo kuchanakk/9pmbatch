@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+  <test name="exampl1">
+    <classes>
+      <class name="testngpack.Assertexampl"/>
+      <class name="testngpack.Testngexampl2"/>
+      
+    </classes>
+  </test>
+</suite>
